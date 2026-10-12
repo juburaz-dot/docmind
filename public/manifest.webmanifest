@@ -1,0 +1,13 @@
+{
+  "name": "DocMind — Private AI document chat",
+  "short_name": "DocMind",
+  "description": "Chat with your documents using AI that runs entirely in your browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaeef3",
+  "theme_color": "#2f4bd8",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
