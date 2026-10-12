@@ -3,7 +3,7 @@
 **Chat with your documents using AI that runs entirely in your browser.** Drop in PDFs, Word files or notes, ask questions, and get answers with clickable citations to the exact passage. Your files never leave your device: no server, no database, no account.
 
 <!-- Replace YOUR-USERNAME after you publish -->
-**[Live demo →](https://YOUR-USERNAME.github.io/docmind/)**
+**[Live demo →](https://juburaz-dot.github.io/docmind/)**
 
 ![DocMind answering a question with citations next to the highlighted source passage](docs/screenshots/chat-with-citations.png)
 
@@ -96,7 +96,7 @@ Whole-document tools such as Summarize sample passages evenly across each file s
 Requires Node.js 20 or newer.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/docmind.git
+git clone https://github.com/juburaz-dot/docmind.git
 cd docmind
 npm install
 npm run dev
